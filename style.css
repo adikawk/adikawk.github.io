@@ -1,10 +1,17 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #e2edff;
+  background-color: #d1dff5;
 }
 
-#projects {
-  background-color: #e2edff;
+.jumbotron img {
+  border-radius: 30px;
+}
+
+.jumbotron h1 {
+  color: #000000;
+}
+#panduan {
+  background-color: #d1dff5;
 }
 
 section {
